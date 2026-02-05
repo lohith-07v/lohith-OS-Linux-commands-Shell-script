@@ -1055,10 +1055,12 @@ fi
 ```
 ## OUTPUT
 ./funcex.sh 
+
 <img width="755" height="44" alt="image" src="https://github.com/user-attachments/assets/67a62aaa-157f-4e01-a8aa-9b97472ad2a0" />
 
  
 ./funcex.sh 1 2
+
 <img width="762" height="38" alt="image" src="https://github.com/user-attachments/assets/3e33b5d0-2080-4e5e-971c-6d549a7c9178" />
 
  
