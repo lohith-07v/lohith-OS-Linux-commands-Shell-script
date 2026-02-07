@@ -409,6 +409,7 @@ cat urllist.txt | tr -d ' '
  
 cat urllist.txt | tr -d ' ' | tr -s '.'
 ## OUTPUT
+<img width="137" height="69" alt="Screenshot from 2026-02-04 22-28-26" src="https://github.com/user-attachments/assets/b81a1242-a2c8-4505-8e96-4ffc9d65382d" />
 
 
 
@@ -416,6 +417,7 @@ cat urllist.txt | tr -d ' ' | tr -s '.'
 #Backup commands
 tar -cvf backup.tar *
 ## OUTPUT
+<img width="137" height="69" alt="Screenshot from 2026-02-04 22-28-26" src="https://github.com/user-attachments/assets/f78a54a4-7a36-4f37-baf3-f85494b61b49" />
 
 
 mkdir backupdir
@@ -426,16 +428,19 @@ cd backupdir
  
 tar -tvf backup.tar
 ## OUTPUT
+<img width="137" height="69" alt="Screenshot from 2026-02-04 22-28-26" src="https://github.com/user-attachments/assets/57346625-f43e-475b-a64a-97a89896c493" />
 
 
 tar -xvf backup.tar
 ## OUTPUT
+<img width="137" height="69" alt="Screenshot from 2026-02-04 22-28-26" src="https://github.com/user-attachments/assets/c66270f7-76c3-4f93-b956-f07f14d35b4c" />
 
 gzip backup.tar
 
 ls .gz
 ## OUTPUT
- 
+ <img width="691" height="94" alt="Screenshot from 2026-02-04 22-50-57" src="https://github.com/user-attachments/assets/6098a9d6-642a-4d5b-9c3c-923cce44ffb9" />
+
 gunzip backup.tar.gz
 ## OUTPUT
 
