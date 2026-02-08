@@ -443,6 +443,7 @@ ls .gz
 
 gunzip backup.tar.gz
 ## OUTPUT
+<img width="858" height="258" alt="Lohith1" src="https://github.com/user-attachments/assets/b5ca44b7-7f30-4cac-a1dd-a0372065b999" />
 
  
 # Shell Script
@@ -453,6 +454,7 @@ echo 'echo Hello World‘; exit 0 >> my-script.sh
 chmod 755 my-script.sh
 ./my-script.sh
 ## OUTPUT
+<img width="710" height="301" alt="Lohith4" src="https://github.com/user-attachments/assets/27138977-e344-48b7-aa48-11fd49040280" />
 
  
 cat << stop > herecheck.txt
@@ -984,6 +986,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+<img width="785" height="304" alt="Lohith3" src="https://github.com/user-attachments/assets/d5ce84ec-4ebd-47f6-9bae-d83f0bb9bd81" />
 
 $ chmod 755 forbreak.sh
  
